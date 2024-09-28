@@ -1,0 +1,14 @@
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/bin/Debug/net8.0/HydacFinalFR
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/bin/Debug/net8.0/HydacFinalFR.deps.json
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/bin/Debug/net8.0/HydacFinalFR.runtimeconfig.json
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/bin/Debug/net8.0/HydacFinalFR.dll
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/bin/Debug/net8.0/HydacFinalFR.pdb
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.AssemblyInfoInputs.cache
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.AssemblyInfo.cs
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.csproj.CoreCompileInputs.cache
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.dll
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/refint/HydacFinalFR.dll
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.pdb
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/HydacFinalFR.genruntimeconfig.cache
+/Users/sebastianunderlien/Projects/HydacFinalFR/HydacFinalFR/obj/Debug/net8.0/ref/HydacFinalFR.dll
